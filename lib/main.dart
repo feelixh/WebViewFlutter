@@ -68,7 +68,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
       ),
       body: WebView(
-        initialUrl: "https://192.168.0.170",
+        initialUrl: "https://www.google.com",
         javascriptMode: JavascriptMode.unrestricted,
       ),
 
